@@ -1,0 +1,14 @@
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.exe
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.deps.json
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.runtimeconfig.json
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.runtimeconfig.dev.json
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.dll
+C:\Users\bryce\source\c#\week3String\bin\Debug\netcoreapp3.1\week3String.pdb
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.csproj.AssemblyReference.cache
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.AssemblyInfoInputs.cache
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.AssemblyInfo.cs
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.dll
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.pdb
+C:\Users\bryce\source\c#\week3String\obj\Debug\netcoreapp3.1\week3String.genruntimeconfig.cache
