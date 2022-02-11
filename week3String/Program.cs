@@ -31,7 +31,7 @@ namespace week3String
 
             }
             else
-               if (c.demerit > 10 && speedLimit < c.speed) // determines if the user has over 10 demerits if so license suspended and compares user speed to speed limit, 
+               if (c.demerit >= 10 && speedLimit < c.speed) // determines if the user has over 10 demerits if so license suspended and compares user speed to speed limit, 
                     Console.WriteLine("\n" + c.make + " " + c.model + " " + c.speed + "mph: " + c.demerit + " demerits " + "<LICENSE SUSPENDED>");
         }
     }
